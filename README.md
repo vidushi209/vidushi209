@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Vidushi  
 
 🎓 B.Tech Student | 📊 Data Enthusiast | 💻 Exploring Deep Learning  
-🌱 Currently learning: Data Analysis, Machine Learning & Neural Networks  
-📚 Fun fact: I'm a fast novel reader  
+🌱 Currently learning: Data Analysis, Machine Learning 
+📚 Fun fact: I'm a Fiction Fanatic – “Exploring new worlds, one novel at a time 🌌”
 
 ---
 
@@ -51,9 +51,10 @@ Here are some ideas to get you started:
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidushi-raghav-387773297/)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidushi.raghav02@gmail.com)  
 
 ---
 
 ⭐️ From [vidushi209](https://github.com/vidushi209)
+
