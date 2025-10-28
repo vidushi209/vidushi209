@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 
 ## 🚀 Featured Projects
 
-🔹 [Data Analysis](https://github.com/vidushi209/data_analysis) – Exploratory Data Analysis using Python  
+🔹 [Data Analysis](https://github.com/vidushi209/data_analysis) – Overview of basic libraries of Python used in Data Analysis
+🔹 [Basic Machine Learning](https://github.com/vidushi209/ML_practice_notebooks) – Basic concepts and algorithms of ML
 
 *(More coming soon…)*  
 
